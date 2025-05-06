@@ -1,6 +1,6 @@
 # Skill_Assessment1
 ## AIM:
-To perform the functions in Numpy and Pandas libraries.
+To Perform Basic Operations on DataFrame using Numpy and Pandas libraries.
 
 ## ALGORITHM:
 1. Import the necessary libraries.
